@@ -1,0 +1,42 @@
+@font-face {
+   font-family: 'Noto Sans TC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 100;
+   src: url('file:///E:/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/Mobirise/fonts/Noto Sans TC/100.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans TC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///E:/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/Mobirise/fonts/Noto Sans TC/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans TC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///E:/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/Mobirise/fonts/Noto Sans TC/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans TC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///E:/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/Mobirise/fonts/Noto Sans TC/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans TC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 900;
+   src: url('file:///E:/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/Mobirise/fonts/Noto Sans TC/900.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans TC';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///E:/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/Mobirise/fonts/Noto Sans TC/regular.ttf') format('truetype');
+}
